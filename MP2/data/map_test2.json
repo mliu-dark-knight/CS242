@@ -1,0 +1,56 @@
+{
+	"metros" : [
+		{
+			"code" : "MIA" ,
+			"name" : "Miami" ,
+			"country" : "US" ,
+			"continent" : "North America" ,
+			"timezone" : -5 ,
+			"coordinates" : {"N" : 26, "W" : 80} ,
+			"population" : 5400000 ,
+			"region" : 1
+		} , {
+			"code" : "WAS" ,
+			"name" : "Washington" ,
+			"country" : "US" ,
+			"continent" : "North America" ,
+			"timezone" : -5 ,
+			"coordinates" : {"N" : 39, "W" : 77} ,
+			"population" : 8250000 ,
+			"region" : 3
+		} , {
+			"code" : "NYC" ,
+			"name" : "New York" ,
+			"country" : "US" ,
+			"continent" : "North America" ,
+			"timezone" : -5 ,
+			"coordinates" : {"N" : 41, "W" : 74} ,
+			"population" : 22200000 ,
+			"region" : 3
+		} , {
+			"code" : "YYZ" ,
+			"name" : "Toronto" ,
+			"country" : "CA" ,
+			"continent" : "North America" ,
+			"timezone" : -5 ,
+			"coordinates" : {"N" : 44, "W" : 80} ,
+			"population" : 5750000 ,
+			"region" : 3
+		}
+	] ,
+	"routes" : [
+		{
+			"ports" : ["MIA" , "WAS"] ,
+			"distance" : 1483
+		} , {
+			"ports" : ["WAS" , "YYZ"] ,
+			"distance" : 575
+		} , {
+			"ports" : ["WAS" , "NYC"] ,
+			"distance" : 334
+		} , {
+			"ports" : ["NYC" , "YYZ"] ,
+			"distance" : 568
+		}
+	]
+}

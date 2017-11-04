@@ -1,0 +1,268 @@
+{
+  "metros": [
+    {
+      "code": "SCL",
+      "name": "Santiago",
+      "country": "CL",
+      "continent": "South America",
+      "timezone": -4,
+      "coordinates": {
+        "S": 33,
+        "W": 71
+      },
+      "population": 6000000
+    },
+    {
+      "code": "LIM",
+      "name": "Lima",
+      "country": "PE",
+      "continent": "South America",
+      "timezone": -5,
+      "coordinates": {
+        "S": 12,
+        "W": 77
+      },
+      "population": 9050000
+    },
+    {
+      "code": "MEX",
+      "name": "Mexico City",
+      "country": "MX",
+      "continent": "North America",
+      "timezone": -6,
+      "coordinates": {
+        "N": 19,
+        "W": 99
+      },
+      "population": 23400000
+    },
+    {
+      "code": "BOG",
+      "name": "Bogota",
+      "country": "CO",
+      "continent": "South America",
+      "timezone": -5,
+      "coordinates": {
+        "N": 5,
+        "W": 74
+      },
+      "population": 8600000
+    },
+    {
+      "code": "MIA",
+      "name": "Miami",
+      "country": "US",
+      "continent": "North America",
+      "timezone": -5,
+      "coordinates": {
+        "N": 26,
+        "W": 80
+      },
+      "population": 5400000
+    },
+    {
+      "code": "WAS",
+      "name": "Washington",
+      "country": "US",
+      "continent": "North America",
+      "timezone": -5,
+      "coordinates": {
+        "N": 39,
+        "W": 77
+      },
+      "population": 8250000
+    },
+    {
+      "code": "NYC",
+      "name": "New York",
+      "country": "US",
+      "continent": "North America",
+      "timezone": -5,
+      "coordinates": {
+        "N": 41,
+        "W": 74
+      },
+      "population": 22200000
+    },
+    {
+      "code": "YYZ",
+      "name": "Toronto",
+      "country": "CA",
+      "continent": "North America",
+      "timezone": -5,
+      "coordinates": {
+        "N": 44,
+        "W": 80
+      },
+      "population": 5750000
+    },
+    {
+      "code": "CMI",
+      "name": "Champaign",
+      "country": "US",
+      "continent": "North America",
+      "timezone": -6,
+      "coordinates": {
+        "N": 40,
+        "W": 80
+      },
+      "population": 226000
+    }
+  ],
+  "routes": [
+    {
+      "ports": [
+        "SCL",
+        "LIM"
+      ],
+      "distance": 2453
+    },
+    {
+      "ports": [
+        "LIM",
+        "SCL"
+      ],
+      "distance": 2453
+    },
+    {
+      "ports": [
+        "LIM",
+        "MEX"
+      ],
+      "distance": 4231
+    },
+    {
+      "ports": [
+        "MEX",
+        "LIM"
+      ],
+      "distance": 4231
+    },
+    {
+      "ports": [
+        "LIM",
+        "BOG"
+      ],
+      "distance": 1879
+    },
+    {
+      "ports": [
+        "BOG",
+        "LIM"
+      ],
+      "distance": 1879
+    },
+    {
+      "ports": [
+        "MIA",
+        "WAS"
+      ],
+      "distance": 1483
+    },
+    {
+      "ports": [
+        "WAS",
+        "MIA"
+      ],
+      "distance": 1483
+    },
+    {
+      "ports": [
+        "WAS",
+        "YYZ"
+      ],
+      "distance": 575
+    },
+    {
+      "ports": [
+        "YYZ",
+        "WAS"
+      ],
+      "distance": 575
+    },
+    {
+      "ports": [
+        "WAS",
+        "NYC"
+      ],
+      "distance": 334
+    },
+    {
+      "ports": [
+        "NYC",
+        "WAS"
+      ],
+      "distance": 334
+    },
+    {
+      "ports": [
+        "NYC",
+        "YYZ"
+      ],
+      "distance": 568
+    },
+    {
+      "ports": [
+        "YYZ",
+        "NYC"
+      ],
+      "distance": 568
+    },
+    {
+      "ports": [
+        "CMI",
+        "NYC"
+      ],
+      "distance": 1208
+    },
+    {
+      "ports": [
+        "NYC",
+        "CMI"
+      ],
+      "distance": 1208
+    },
+    {
+      "ports": [
+        "CMI",
+        "MEX"
+      ],
+      "distance": 2518
+    },
+    {
+      "ports": [
+        "MEX",
+        "CMI"
+      ],
+      "distance": 2518
+    },
+    {
+      "ports": [
+        "CMI",
+        "YYZ"
+      ],
+      "distance": 831
+    },
+    {
+      "ports": [
+        "YYZ",
+        "CMI"
+      ],
+      "distance": 831
+    },
+    {
+      "ports": [
+        "CMI",
+        "MIA"
+      ],
+      "distance": 1757
+    },
+    {
+      "ports": [
+        "MIA",
+        "CMI"
+      ],
+      "distance": 1757
+    }
+  ]
+}

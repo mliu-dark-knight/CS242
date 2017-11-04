@@ -1,0 +1,1672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="7206">
+<author>mliu60</author>
+<date>2016-10-11T03:17:27.546779Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/HW0.iml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/MP0.iml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/src</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/src/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/src/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/tests/LANTests.java</path>
+</paths>
+<msg>mp0</msg>
+</logentry>
+<logentry
+   revision="7203">
+<author>mliu60</author>
+<date>2016-10-11T02:13:19.366240Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/mliu60/Assignment2.1/data/map_full.json</path>
+<path
+   action="M"
+   kind="file">/mliu60/Assignment2.1/src/cui.rb</path>
+</paths>
+<msg>mp2</msg>
+</logentry>
+<logentry
+   revision="7105">
+<author>mliu60</author>
+<date>2016-10-07T21:22:48.497075Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment2.1</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment2.1/.idea</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.1/.idea/MP2.iml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.1/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.1/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.1/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment2.1/data</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.1/data/cmi_hub.json</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.1/data/map_data.json</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.1/data/map_full.json</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment2.1/data/map_test1.json</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.1/data/map_test2.json</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.1/data/map_test3.json</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment2.1/src</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment2.1/src/cs_air.rb</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment2.1/src/cui.rb</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment2.1/src/graph.rb</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment2.1/src/metro.rb</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment2.1/src/route.rb</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment2.1/src/test_graph.rb</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment2.1/src/util.rb</path>
+</paths>
+<msg>mp2</msg>
+</logentry>
+<logentry
+   revision="7104">
+<author>mliu60</author>
+<date>2016-10-07T21:22:33.952329Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/mliu60/Assignment0</path>
+</paths>
+<msg>rm mp0</msg>
+</logentry>
+<logentry
+   revision="7103">
+<author>mliu60</author>
+<date>2016-10-07T21:21:26.292314Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/.idea</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/MP2.iml</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/data</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/data/cmi_hub.json</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/data/map_data.json</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/data/map_full.json</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/data/map_test1.json</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/data/map_test2.json</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/data/map_test3.json</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/src</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/cs_air.rb</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/cui.rb</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/graph.rb</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/metro.rb</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/route.rb</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/test_graph.rb</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/util.rb</path>
+</paths>
+<msg>mp2</msg>
+</logentry>
+<logentry
+   revision="6460">
+<author>mliu60</author>
+<date>2016-09-30T21:14:27.186653Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment2.0</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment2.0/.idea</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.0/.idea/MP2.iml</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment2.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.0/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment2.0/data</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.0/data/map_data.json</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment2.0/src</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.0/src/cs_air.rb</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.0/src/cui.rb</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.0/src/graph.rb</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment2.0/src/metro.rb</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.0/src/route.rb</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment2.0/src/test_graph.rb</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment2.0/src/util.rb</path>
+</paths>
+<msg>mp2.0</msg>
+</logentry>
+<logentry
+   revision="5694">
+<author>mliu60</author>
+<date>2016-09-23T04:59:22.748076Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment1.2</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.2/CS242_MP1.iml</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.2/Doxyfile</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.2/ManualTestPlan.pdf</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment1.2/images</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.2/images/bishop0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.2/images/bishop1.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.2/images/king0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.2/images/king1.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.2/images/knight0.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.2/images/knight1.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.2/images/pawn0.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.2/images/pawn1.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.2/images/queen0.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.2/images/queen1.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.2/images/rook0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.2/images/rook1.png</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment1.2/src</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment1.2/src/main</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.2/src/main/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.2/src/main/Empress.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.2/src/main/GameControl.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.2/src/main/GameGUI.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.2/src/main/GameState.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.2/src/main/King.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.2/src/main/Knight.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.2/src/main/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.2/src/main/Piece.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.2/src/main/Position.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.2/src/main/Princess.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.2/src/main/Queen.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.2/src/main/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment1.2/src/test</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.2/src/test/GameGUITest.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.2/src/test/GameLogicTest.java</path>
+</paths>
+<msg>mp1.2</msg>
+</logentry>
+<logentry
+   revision="5098">
+<author>mliu60</author>
+<date>2016-09-17T00:34:01.276969Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/Doxyfile</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/ManualTestPlan.pdf</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment1.1/images</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/images/bishop0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/images/bishop1.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/images/king0.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/images/king1.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/images/knight0.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/images/knight1.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/images/pawn0.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/images/pawn1.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/images/queen0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/images/queen1.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/images/rook0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/images/rook1.png</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment1.1/src</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment1.1/src/main</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/src/main/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/src/main/Empress.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/src/main/Game.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/src/main/GameGUI.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/src/main/GameState.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/src/main/King.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/src/main/Knight.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/src/main/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/src/main/Piece.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/src/main/Princess.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/src/main/Queen.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/src/main/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment1.1/src/test</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/src/test/GameGUITest.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/src/test/GameLogicTest.java</path>
+</paths>
+<msg>mp1.1</msg>
+</logentry>
+<logentry
+   revision="5097">
+<author>mliu60</author>
+<date>2016-09-17T00:33:34.062448Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/mliu60/Assignment1.1</path>
+</paths>
+<msg>rm mp1 without test plan</msg>
+</logentry>
+<logentry
+   revision="4905">
+<author>mliu60</author>
+<date>2016-09-16T06:01:37.450210Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment1.1</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/Doxyfile</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment1.1/images</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/images/bishop0.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/images/bishop1.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/images/king0.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/images/king1.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/images/knight0.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/images/knight1.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/images/pawn0.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/images/pawn1.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/images/queen0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/images/queen1.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/images/rook0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/images/rook1.png</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment1.1/src</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment1.1/src/main</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/src/main/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/src/main/Empress.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/src/main/Game.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/src/main/GameGUI.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/src/main/GameState.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/src/main/King.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/src/main/Knight.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/src/main/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/src/main/Piece.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/src/main/Princess.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/src/main/Queen.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/src/main/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment1.1/src/test</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/src/test/GameGUITest.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/src/test/GameLogicTest.java</path>
+</paths>
+<msg>mp1.1</msg>
+</logentry>
+<logentry
+   revision="3733">
+<author>mliu60</author>
+<date>2016-09-09T05:46:28.550276Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment1.0</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.0/CS242_MP1.iml</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment1.0/images</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.0/images/bishop0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.0/images/bishop1.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.0/images/king0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.0/images/king1.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.0/images/knight0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.0/images/knight1.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.0/images/pawn0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.0/images/pawn1.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.0/images/queen0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.0/images/queen1.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.0/images/rook0.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.0/images/rook1.png</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment1.0/src</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment1.0/src/main</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.0/src/main/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.0/src/main/Game.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.0/src/main/GameGUI.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.0/src/main/GameState.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.0/src/main/King.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.0/src/main/Knight.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.0/src/main/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.0/src/main/Piece.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.0/src/main/Queen.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.0/src/main/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment1.0/src/test</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.0/src/test/GameGUITest.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.0/src/test/GameLogicTest.java</path>
+</paths>
+<msg>assignment1</msg>
+</logentry>
+<logentry
+   revision="3728">
+<author>mliu60</author>
+<date>2016-09-09T05:37:08.984922Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/mliu60/Assignment1.1</path>
+</paths>
+<msg>rm mp1</msg>
+</logentry>
+<logentry
+   revision="3725">
+<author>mliu60</author>
+<date>2016-09-09T05:29:27.613297Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment1.1</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment1.1/main</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/main/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/main/Game.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/main/GameGUI.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/main/GameState.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/main/King.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/main/Knight.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment1.1/main/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/main/Piece.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/main/Queen.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/main/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment1.1/test</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/test/GameGUITest.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment1.1/test/GameLogicTest.java</path>
+</paths>
+<msg>mp1</msg>
+</logentry>
+<logentry
+   revision="1726">
+<author>mliu60</author>
+<date>2016-08-30T04:13:02.893018Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/main</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/main/java</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/main/java/edu</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/main/java/edu/illinois</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/ChuLiuEdmondsDecoder.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/DepFeatureGenerator.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/DepInst.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/DepStruct.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/EdisonFeatureGenerator.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/IllinoisDepHandler.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/LabeledChuLiuEdmondsDecoder.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/LabeledDepFeatureGenerator.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/LabeledEdisonFeatureGenerator.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/MainClass.java</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/POSTag</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/POSTag/POSManager.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/POSTag/POSTag.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/POSTag/Sentence.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/POSTag/ViterbiInferenceSolver.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/base</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/base/DependencyInstance.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/base/RelationalFeature.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/edison</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/edison/ChunkConjDepparse.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/edison/ConjDepparse.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/edison/InBetweenPOSDepparse.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/edison/LexicalConjDepparse.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/edison/POSwinConjDepparse.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/edison/PrefixConjDepparse.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/edison/SuffixConjDepparse.java</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/io</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/io/CONLLReader.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/io/CONLLTagManager.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/io/CONLLWriter.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/io/DependencyWriter.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/io/StanfordParser.java</path>
+</paths>
+<msg>400 lines</msg>
+</logentry>
+<logentry
+   revision="1725">
+<author>mliu60</author>
+<date>2016-08-30T04:12:32.422580Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/lanSimulation/tests/LANTests.java</path>
+</paths>
+<msg>mp0</msg>
+</logentry>
+<logentry
+   revision="1724">
+<author>mliu60</author>
+<date>2016-08-30T04:12:20.291674Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/mliu60/Assignment0</path>
+</paths>
+<msg>rm mp0</msg>
+</logentry>
+<logentry
+   revision="1723">
+<author>mliu60</author>
+<date>2016-08-30T04:11:49.581600Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.classpath</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/.idea</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.project</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/.settings</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/COPYING</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/HW0.iml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/MP0.iml</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/bin</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/bin/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/Network.class</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/bin/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/doc</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/doc/README</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/doc/RefactoringAssignment.pdf</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/doc/toDoList</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/javadoc.xml</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/lib</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/lib/junit.jar</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production/HW0</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/HW0/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/HW0/lanSimulation/Network.class</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production/HW0/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/HW0/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/HW0/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/MP0</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation/LANSimulation.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/MP0/lanSimulation/internals/Packet.class</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production/MP0/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/MP0/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/src</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/src/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/useOutput.txt</path>
+</paths>
+<msg>mp0</msg>
+</logentry>
+<logentry
+   revision="1722">
+<author>mliu60</author>
+<date>2016-08-30T04:10:12.201995Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/mliu60/Assignment0</path>
+</paths>
+<msg>rm mp0</msg>
+</logentry>
+<logentry
+   revision="1721">
+<author>mliu60</author>
+<date>2016-08-30T04:09:49.349716Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/.idea</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/.idea/modules.xml</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/.idea/workspace.xml</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/CS242_MP1.iml</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/images</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/images/bishop0.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/images/bishop1.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/images/king0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/images/king1.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/images/knight0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/images/knight1.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/images/pawn0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/images/pawn1.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/images/queen0.png</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/images/queen1.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/images/rook0.png</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/images/rook1.png</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production/CS242_MP1</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production/CS242_MP1/main</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/CS242_MP1/main/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/CS242_MP1/main/Game.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/CS242_MP1/main/GameGUI.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/CS242_MP1/main/King.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/CS242_MP1/main/Knight.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/CS242_MP1/main/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/CS242_MP1/main/Piece.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/CS242_MP1/main/Queen.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/CS242_MP1/main/Rook.class</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production/CS242_MP1/test</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/CS242_MP1/test/GameGUITest.class</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/src</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/src/main</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/main/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/main/Game.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/main/GameGUI.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/main/King.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/main/Knight.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/main/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/main/Piece.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/main/Queen.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/main/Rook.java</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/src/test</path>
+</paths>
+<msg>mp0</msg>
+</logentry>
+<logentry
+   revision="1719">
+<author>mliu60</author>
+<date>2016-08-30T04:09:00.545683Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/main</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/main/java</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/main/java/edu</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/ChuLiuEdmondsDecoder.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/DepFeatureGenerator.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/DepInst.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/DepStruct.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/EdisonFeatureGenerator.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/IllinoisDepHandler.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/LabeledChuLiuEdmondsDecoder.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/LabeledDepFeatureGenerator.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/LabeledEdisonFeatureGenerator.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/MainClass.java</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/POSTag</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/POSTag/POSManager.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/POSTag/POSTag.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/POSTag/Sentence.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/POSTag/ViterbiInferenceSolver.java</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/base</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/base/DependencyInstance.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/base/RelationalFeature.java</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/edison</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/edison/ChunkConjDepparse.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/edison/ConjDepparse.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/edison/InBetweenPOSDepparse.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/edison/LexicalConjDepparse.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/edison/POSwinConjDepparse.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/edison/PrefixConjDepparse.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/edison/SuffixConjDepparse.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/io</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/io/CONLLReader.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/io/CONLLTagManager.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/io/CONLLWriter.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/io/DependencyWriter.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/main/java/edu/illinois/cs/cogcomp/depparse/io/StanfordParser.java</path>
+</paths>
+<msg>400 lines</msg>
+</logentry>
+<logentry
+   revision="1718">
+<author>mliu60</author>
+<date>2016-08-30T04:07:59.214334Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/mliu60/Assignment0</path>
+</paths>
+<msg>rm mp0</msg>
+</logentry>
+<logentry
+   revision="1661">
+<author>mliu60</author>
+<date>2016-08-30T01:31:52.199223Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.classpath</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/.idea</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/compiler.xml</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.project</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/.settings</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/COPYING</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/HW0.iml</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/MP0.iml</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/bin</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/bin/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/Network.class</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/doc</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/doc/README</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/doc/RefactoringAssignment.pdf</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/expectedOutput.txt</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/javadoc.xml</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/lib</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/lib/junit.jar</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production/HW0</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production/HW0/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/HW0/lanSimulation/LANSimulation.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/HW0/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/MP0</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/MP0/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/MP0/lanSimulation/internals/Packet.class</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production/MP0/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/MP0/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/MP0/lanSimulation/tests/LANTests.class</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/src</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/src/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/Network.java</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/useOutput.txt</path>
+</paths>
+<msg>MP0</msg>
+</logentry>
+<logentry
+   revision="112">
+<author>root</author>
+<date>2016-08-23T17:56:46.535089Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mliu60</path>
+</paths>
+<msg>created directory mliu60</msg>
+</logentry>
+</log>

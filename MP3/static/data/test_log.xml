@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="7206">
+<author>mliu60</author>
+<date>2016-10-11T03:17:27.546779Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/HW0.iml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/MP0.iml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/src</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/src/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/src/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/tests/LANTests.java</path>
+</paths>
+<msg>mp0</msg>
+</logentry>
+<logentry
+   revision="1725">
+<author>mliu60</author>
+<date>2016-08-30T04:12:32.422580Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/lanSimulation/tests/LANTests.java</path>
+</paths>
+<msg>mp0</msg>
+</logentry>
+<logentry
+   revision="1724">
+<author>mliu60</author>
+<date>2016-08-30T04:12:20.291674Z</date>
+<paths>
+<path
+   action="D"
+   kind="dir">/mliu60/Assignment0</path>
+</paths>
+<msg>rm mp0</msg>
+</logentry>
+<logentry
+   revision="1723">
+<author>mliu60</author>
+<date>2016-08-30T04:11:49.581600Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.classpath</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/.idea</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/.idea/.name</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/misc.xml</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.project</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/.settings</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/COPYING</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/HW0.iml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/MP0.iml</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/bin</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/bin/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/Network.class</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/bin/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/doc</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/doc/README</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/doc/RefactoringAssignment.pdf</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/doc/toDoList</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/expectedOutput.txt</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/javadoc.xml</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/lib</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/lib/junit.jar</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production/HW0</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/HW0/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/HW0/lanSimulation/Network.class</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production/HW0/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/HW0/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/HW0/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/MP0</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation/LANSimulation.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/MP0/lanSimulation/internals/Packet.class</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production/MP0/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/MP0/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/src</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/lanSimulation/LANSimulation.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/internals/Packet.java</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/src/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/useOutput.txt</path>
+</paths>
+<msg>mp0</msg>
+</logentry>
+<logentry
+   revision="1722">
+<author>mliu60</author>
+<date>2016-08-30T04:10:12.201995Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/mliu60/Assignment0</path>
+</paths>
+<msg>rm mp0</msg>
+</logentry>
+<logentry
+   revision="1718">
+<author>mliu60</author>
+<date>2016-08-30T04:07:59.214334Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/mliu60/Assignment0</path>
+</paths>
+<msg>rm mp0</msg>
+</logentry>
+<logentry
+   revision="1661">
+<author>mliu60</author>
+<date>2016-08-30T01:31:52.199223Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.classpath</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/.idea</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/.name</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/compiler.xml</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/.idea/copyright</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/modules.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/.project</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/.settings</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/COPYING</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/HW0.iml</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/MP0.iml</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/bin</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/bin/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/Network.class</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/doc</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/doc/LANSimulationDocument.pdf</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/doc/README</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/doc/RefactoringAssignment.pdf</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/expectedOutput.txt</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/javadoc.xml</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/lib</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/lib/junit.jar</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production/HW0</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production/HW0/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/HW0/lanSimulation/LANSimulation.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/HW0/lanSimulation/internals/Node.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/internals/Packet.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/HW0/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/MP0</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation/LANSimulation.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/MP0/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/out/production/MP0/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/MP0/lanSimulation/internals/Packet.class</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/out/production/MP0/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/MP0/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/out/production/MP0/lanSimulation/tests/LANTests.class</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/src</path>
+<path
+   action="A"
+   kind="dir">/mliu60/Assignment0/src/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/Network.java</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/src/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/mliu60/Assignment0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="dir"
+   action="A">/mliu60/Assignment0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="file"
+   action="A">/mliu60/Assignment0/useOutput.txt</path>
+</paths>
+<msg>MP0</msg>
+</logentry>
+<logentry
+   revision="112">
+<author>root</author>
+<date>2016-08-23T17:56:46.535089Z</date>
+<paths>
+<path
+   action="A"
+   kind="dir">/mliu60</path>
+</paths>
+<msg>created directory mliu60</msg>
+</logentry>
+</log>
